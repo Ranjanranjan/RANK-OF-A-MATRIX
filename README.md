@@ -18,6 +18,7 @@ Get the input matrix from the user
 End the program
 
 ## Program:
+```
 #Program to find the rank of a matrix.
 
 #Developed by: Keerthika N
@@ -31,6 +32,7 @@ A = np.array([[3,2,5],[1,1,2],[3,3,6]])
 values=np.linalg.matrix_rank(A)
 
 print(values)
+```
 
 ## Output:
 ![OUTPUT](./a.png)
